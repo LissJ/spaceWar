@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_nave",
+  "%Name":"obj_tiroInimigo2",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":5,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_nave",
+  "name":"obj_tiroInimigo2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_nave",
-    "path":"sprites/spr_nave/spr_nave.yy",
+    "name":"spr_tiroInimigo2",
+    "path":"sprites/spr_tiroInimigo2/spr_tiroInimigo2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
