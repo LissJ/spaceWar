@@ -11,3 +11,6 @@ delay_stop = room_speed * choose(3, 4, 5)
 alarm[0] = room_speed * irandom_range(1, 3)
 
 HP = 3
+
+image_xscale = 1.5
+image_yscale = 1.5

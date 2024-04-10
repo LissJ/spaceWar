@@ -9,10 +9,10 @@ if(delay <= 0) {
 }
 
 if(x >= 920){
-	y = -20
+	x = -20
 }
 if(y >= 700){
-	x = 1
+	y = 1
 }
 if(x <= 0){
 	x = 900
@@ -20,4 +20,5 @@ if(x <= 0){
 
 if(HP <= 0){
 	instance_destroy()
+	global.pontos += 1
 }

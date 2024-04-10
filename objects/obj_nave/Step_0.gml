@@ -13,3 +13,7 @@ if (mouse_check_button(mb_left)) {
 if (disparo > 0) {
 	disparo -= 1
 }
+
+if(global.HP <= 0){
+	instance_destroy()
+}

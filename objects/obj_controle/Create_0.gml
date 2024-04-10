@@ -8,10 +8,12 @@ inimigo_liberado = false
 delay = room_speed * 3
 delay_start = delay
 
+delay_gameover = delay
+
 delay_inimigos = room_speed
 pode_criar_inimigos = false
 
-global.gamestart = false
+global.gamestart = true
 global.level = 1
 global.pontos = 0
 
